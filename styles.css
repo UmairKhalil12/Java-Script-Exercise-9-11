@@ -1,0 +1,61 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+.heading{
+    text-align: center;
+}
+.container1{
+    display: flex;
+}
+
+.program1{
+    width: 20%;
+    margin: 1%;
+    padding: 1%;
+}
+
+.bttn-1{
+    width: 100%;
+    height: 80%;
+    background-color: coral;
+    padding: 16px;
+
+}
+
+.program2{
+    width: 20%;
+    margin: 1%;
+    padding: 1%;
+}
+
+.program3{
+    width: 20%;
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.program4{
+    width: 20%;
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.bttn-2{
+    width: 40%;
+    height: 25%;
+    margin: 1%;
+    padding: 8px;
+    background-color: coral;
+}
+
+.bttn-3{
+    width: 100%;
+    height: 25%;
+    margin: 1%;
+    padding: 8px;
+    background-color: coral;
+
+}
